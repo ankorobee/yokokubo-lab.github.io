@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { FloralCorner, FloralDivider } from "@/components/FloralDecor";
 import type { ScholarPub, PubType } from "@/lib/fetchScholar";
-import { publications } from "@/lib/publications-data";
+import cache from "@/lib/publications-cache.json";
 
 const typeConfig: Record<PubType, { label: string; labelJa: string; bg: string; text: string }> = {
   J: { label: "Journal",    labelJa: "論文誌",   bg: "#E3BAC6", text: "#3D1B3F" },
@@ -32,7 +32,7 @@ function groupByYear(pubs: ScholarPub[]) {
 }
 
 export default function PublicationsPage() {
-  const pubs = publications;
+  const pubs = cache as ScholarPub[];
   const grouped = groupByYear(pubs);
 
   return (

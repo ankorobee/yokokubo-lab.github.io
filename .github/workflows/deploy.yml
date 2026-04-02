@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [release]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -29,6 +29,10 @@ jobs:
         id: pages
 
       - run: npm ci
+
+      - name: Fetch Google Scholar publications
+        run: node scripts/fetch-scholar.mjs
+        continue-on-error: true
 
       - run: npm run build
         env:
