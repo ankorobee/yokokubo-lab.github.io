@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import { FloralCorner, FloralDivider } from "@/components/FloralDecor";
 
+const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
 export const metadata: Metadata = {
   title: "メンバー",
   description: "研究室のメンバー紹介です。",
@@ -28,7 +30,7 @@ const pi: Member = {
   bio: "博士（理学）。2011年IPA未踏ユース事業にチーフクリエータとして採択。2012年から2017年までキヤノン株式会社にて研究開発に従事し、2015年にフィンランドのTurku University of Applied Sciencesで客員研究員を務める。2017年より青山学院大学理工学部助手・助教、2023年より東京大学大学院情報学環助教、2026年4月より東京大学大学院情報学環総合分析情報学コース准教授。専門はHCI、Cultural Computing、行動変容、情報デザイン、スマートシティ等。",
   color: "#BC9EC1",
   initial: "Y",
-  photo: "/images/yokokubo-square_2026.jpg",
+  photo: `${BASE}/images/yokokubo-square_2026.jpg`,
 };
 
 const docStudents: Member[] = [

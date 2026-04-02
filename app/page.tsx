@@ -2,6 +2,8 @@ import Link from "next/link";
 import Image from "next/image";
 import { FloralDivider, SakuraIcon, AoiIcon } from "@/components/FloralDecor";
 
+const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
 const researchAreas = [
   {
     icon: <SakuraIcon color="#E3BAC6" size={20} />,
@@ -116,11 +118,11 @@ export default function HomePage() {
             style={{ width: 410, height: 620 }}
           >
             {[
-              { src: "/images/Ikebana3DGS.png",    alt: "Ikebana × 3DGS",  left: 210, top: 0   },
-              { src: "/images/eGenjiko.png",        alt: "eGenjiko",         left: 0,   top: 105 },
-              { src: "/images/HappinessFinder.jpg", alt: "HappinessFinder",  left: 210, top: 210 },
-              { src: "/images/CADo.png",            alt: "CADo",             left: 0,   top: 315 },
-              { src: "/images/TracKenzan.gif",      alt: "TracKenzan",       left: 210, top: 420 },
+              { src: `${BASE}/images/Ikebana3DGS.png`,    alt: "Ikebana × 3DGS",  left: 210, top: 0   },
+              { src: `${BASE}/images/eGenjiko.png`,        alt: "eGenjiko",         left: 0,   top: 105 },
+              { src: `${BASE}/images/HappinessFinder.jpg`, alt: "HappinessFinder",  left: 210, top: 210 },
+              { src: `${BASE}/images/CADo.png`,            alt: "CADo",             left: 0,   top: 315 },
+              { src: `${BASE}/images/TracKenzan.gif`,      alt: "TracKenzan",       left: 210, top: 420 },
             ].map((img) => (
               <div
                 key={img.alt}
