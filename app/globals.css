@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+@theme {
+  /* Lab Color Palette */
+  --color-cameo-pink: #E3BAC6;
+  --color-misty-rose: #FDE8E9;
+  --color-lilac: #BC9EC1;
+  --color-deep-plum: #3D1B3F;
+  --color-muted-plum: #6E4B7A;
+  --color-pale-lilac: #D4B8D8;
+  --color-sage: #7FA67F;
+  --color-warm-white: #FEFAF9;
+  --color-border-soft: #EDD8E8;
+}
+
+@theme inline {
+  --font-sans: var(--font-inter), var(--font-noto), 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #FEFAF9;
+  color: #3D1B3F;
+  font-family: var(--font-inter), var(--font-noto), 'Helvetica Neue', Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-up {
+  animation: fadeUp 0.7s ease-out both;
+}
+
+.animate-fade-up-1 {
+  animation: fadeUp 0.7s ease-out 0.1s both;
+}
+
+.animate-fade-up-2 {
+  animation: fadeUp 0.7s ease-out 0.2s both;
+}
+
+.animate-fade-up-3 {
+  animation: fadeUp 0.7s ease-out 0.3s both;
+}
+
+.animate-fade-up-4 {
+  animation: fadeUp 0.7s ease-out 0.4s both;
+}
