@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { FloralCorner, FloralDivider } from "@/components/FloralDecor";
-import { fetchScholarPublications, type ScholarPub, type PubType } from "@/lib/fetchScholar";
+import type { ScholarPub, PubType } from "@/lib/fetchScholar";
+import { publications } from "@/lib/publications-data";
 
 const typeConfig: Record<PubType, { label: string; labelJa: string; bg: string; text: string }> = {
   J: { label: "Journal",    labelJa: "論文誌",   bg: "#E3BAC6", text: "#3D1B3F" },
@@ -30,8 +31,8 @@ function groupByYear(pubs: ScholarPub[]) {
   });
 }
 
-export default async function PublicationsPage() {
-  const pubs = await fetchScholarPublications();
+export default function PublicationsPage() {
+  const pubs = publications;
   const grouped = groupByYear(pubs);
 
   return (
@@ -87,10 +88,7 @@ export default async function PublicationsPage() {
           {pubs.length === 0 ? (
             <div className="text-center py-20">
               <p className="text-[#BC9EC1] text-sm mb-2">
-                現在、Google Scholar からデータを取得できませんでした。
-              </p>
-              <p className="text-[#BC9EC1]/60 text-xs">
-                しばらくしてから再度お試しください。
+                現在、業績情報はありません。
               </p>
             </div>
           ) : (
