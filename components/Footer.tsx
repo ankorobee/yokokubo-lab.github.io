@@ -64,10 +64,11 @@ export default function Footer() {
               <p>ダイワユビキタス学術研究館</p>
               <p className="pt-2">
                 <a
-                  href="mailto:info@yokokubo-lab.org"
-                  className="hover:text-[#E3BAC6] transition-colors"
+                  href="#"
+                  className="hover:text-[#E3BAC6] transition-colors cursor-default select-all"
+                  onClick={(e) => e.preventDefault()}
                 >
-                  info@yokokubo-lab.org
+                  anna.yokokubo [at] iii.u-tokyo.ac.jp
                 </a>
               </p>
             </address>

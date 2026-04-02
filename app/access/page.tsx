@@ -21,8 +21,7 @@ const accessInfo = [
   {
     icon: "✉️",
     label: "メール",
-    content: "info@yokokubo-lab.org",
-    isEmail: true,
+    content: "anna.yokokubo [at] iii.u-tokyo.ac.jp",
   },
   {
     icon: "🏛",
