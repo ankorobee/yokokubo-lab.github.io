@@ -99,7 +99,7 @@ export default function AccessPage() {
                 配属・見学を希望される方へ
               </h3>
               <p className="text-sm text-[#6E4B7A] leading-relaxed">
-                当研究室は越塚・羽多野・横窪・濱田・葛合同研究室として運営しており，各種研究活動は，越塚研究室配属メンバーと合同で行います。<br />
+                当研究室は<a href="https://www.koshizuka-lab.org/" target="_blank" rel="noopener noreferrer" className="text-[#BC9EC1] hover:text-[#6E4B7A] underline transition-colors">越塚・羽多野・横窪・濱田・葛合同研究室</a>として運営しており，各種研究活動は，越塚研究室配属メンバーと合同で行います。<br />
                 また2026年4月より横窪が着任したことに伴い設立した研究室ですので、2026年度より学生募集が開始になります（配属は2027年度からです）。<br />
                 面談希望の方を随時受け付けています。修士課程・博士課程への進学を希望される方も歓迎します。
               </p>
