@@ -63,13 +63,9 @@ export default function Footer() {
               <p>東京大学大学院情報学環</p>
               <p>ダイワユビキタス学術研究館</p>
               <p className="pt-2">
-                <a
-                  href="#"
-                  className="hover:text-[#E3BAC6] transition-colors cursor-default select-all"
-                  onClick={(e) => e.preventDefault()}
-                >
+                <span className="select-all">
                   anna.yokokubo [at] iii.u-tokyo.ac.jp
-                </a>
+                </span>
               </p>
             </address>
           </div>

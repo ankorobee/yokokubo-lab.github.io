@@ -76,18 +76,9 @@ export default function AccessPage() {
                     <p className="text-xs font-semibold text-[#BC9EC1] mb-1 tracking-wide uppercase">
                       {item.label}
                     </p>
-                    {item.isEmail ? (
-                      <a
-                        href={`mailto:${item.content}`}
-                        className="text-sm text-[#6E4B7A] hover:text-[#BC9EC1] transition-colors"
-                      >
-                        {item.content}
-                      </a>
-                    ) : (
-                      <p className="text-sm text-[#6E4B7A] whitespace-pre-line leading-relaxed">
+                    <p className="text-sm text-[#6E4B7A] whitespace-pre-line leading-relaxed">
                         {item.content}
                       </p>
-                    )}
                   </div>
                 </div>
               ))}
