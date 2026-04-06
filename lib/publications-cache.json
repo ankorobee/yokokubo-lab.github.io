@@ -1,1 +1,902 @@
-[]
+[
+  {
+    "title": "Happiness finder: Exploring the role of ai in enhancing well-being during four-leaf clover searches",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:bFI3QPDXJZMC",
+    "authors": "A Yokokubo, T Hamada, T Ishizuka, H Mori, N Koshizuka",
+    "venue": "Proceedings of the Augmented Humans International Conference 2025, 459-462",
+    "year": 2025,
+    "citedBy": 2,
+    "type": "C"
+  },
+  {
+    "title": "Ikebana of the Future: Exploring AI Ikebana Exhibition and Creative Support Possibilities in Virtual Spaces",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:CHSYGLWDkRkC",
+    "authors": "A Yokokubo, K Taketani, S Ishida, N Koshizuka",
+    "venue": "2025 IEEE 14th Global Conference on Consumer Electronics (GCCE), 1262-1266",
+    "year": 2025,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "Designing a 4D Digital Archive for Ikebana: Toward Scalable and Interpretable Interactive Archiving of Cultural Performance",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:P5F9QuxV20EC",
+    "authors": "A Yokokubo, Y Ishiguro, K Taketani, C Hori, J Rekimoto, N Koshizuka",
+    "venue": "",
+    "year": 2025,
+    "citedBy": 0,
+    "type": "?"
+  },
+  {
+    "title": "Happiness Finder: Exploring User Experience in AI-Assisted Four-Leaf Clover Searches",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:xtRiw3GOFMkC",
+    "authors": "T Hamada, A Yokokubo, T Ishizuka, H Mori, N Koshizuka",
+    "venue": "The Eurographics Association",
+    "year": 2025,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "Real-time feedback system for efficient core training",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:2P1L_qKh6hAC",
+    "authors": "K Sato, A Jinno, N Motokawa, T Hossain, A Yokokubo, G Lopez",
+    "venue": "Human Activity and Behavior Analysis, 199-220",
+    "year": 2024,
+    "citedBy": 5,
+    "type": "C"
+  },
+  {
+    "title": "Boxing movements recognition using IMUs during shadow boxing exercise",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:35N4QoGY0k4C",
+    "authors": "Y Hanada, T Hossain, A Yokokubo, G Lopez",
+    "venue": "Human Activity and Behavior Analysis, 232-248",
+    "year": 2024,
+    "citedBy": 4,
+    "type": "C"
+  },
+  {
+    "title": "VR Pedestrian Simulation to Promote Understanding of Different Perspective for Implementing Walkable City",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:cFHS6HbyZ2cC",
+    "authors": "C Hori, T Hamada, R Sakamoto, T Michikata, A Yokokubo, N Koshizuka",
+    "venue": "2024 IEEE International Smart Cities Conference (ISC2), 01-06",
+    "year": 2024,
+    "citedBy": 1,
+    "type": "C"
+  },
+  {
+    "title": "Footbsense: Soccer moves in practice environment identification using a single imu",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:ldfaerwXgEUC",
+    "authors": "H Aoyagi, T Hossain, A Yokokubo, G Lopez",
+    "venue": "Human Activity and Behavior Analysis, 249-266",
+    "year": 2024,
+    "citedBy": 1,
+    "type": "C"
+  },
+  {
+    "title": "Keeping Athletes Motivated by Realtime Co-running Application",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:70eg2SAEIzsC",
+    "authors": "S Ishii, K Imura, T Hossain, A Yokokubo, G Lopez",
+    "venue": "Human Activity and Behavior Analysis, 221-231",
+    "year": 2024,
+    "citedBy": 1,
+    "type": "C"
+  },
+  {
+    "title": "ScaleCity: Toolset for Constructing Urban Data Visualization Using 3D Printed Transparent City",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:EUQCXRtRnyEC",
+    "authors": "R Sakamoto, A Yokokubo, T Hamada, N Koshizuka",
+    "venue": "2024 IEEE International Smart Cities Conference (ISC2), 1-6",
+    "year": 2024,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "Eating Habit Improvement System Using Dietary Sound.",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:lSLTfruPkqcC",
+    "authors": "H Kamachi, S Ohkubo, A Yokokubo, G Lopez",
+    "venue": "HEALTHINF, 346-353",
+    "year": 2023,
+    "citedBy": 1,
+    "type": "C"
+  },
+  {
+    "title": "Boxing Movement Recognition System in Boxercise Lesson Using an IMU",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:pqnbT2bcN3wC",
+    "authors": "Y HANADA, S MIYAZAWA, A YOKOKUBO, G LOPEZ",
+    "venue": "情報処理学会シンポジウムシリーズ (CD-ROM) 2023 (1), 8-1",
+    "year": 2023,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "HydReminder-W: A Bottle Cap that Listens to Your Heart to Remind You to Drink!",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:M05iB0D1s5AC",
+    "authors": "N Motokawa, A Yokokubo, G Lopez",
+    "venue": "HEALTHINF, 199-208",
+    "year": 2023,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "FootbSense: Soccer moves identification using a single IMU",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:YFjsv_pBGBYC",
+    "authors": "Y Kondo, S Ishii, H Aoyagi, T Hossain, A Yokokubo, G Lopez",
+    "venue": "Sensor-and Video-Based Activity and Behavior Computing: Proceedings of 3rd …",
+    "year": 2022,
+    "citedBy": 9,
+    "type": "C"
+  },
+  {
+    "title": "Boxersense: Punch detection and classification using IMUs",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:BqipwSGYUEgC",
+    "authors": "Y Hanada, T Hossain, A Yokokubo, G Lopez",
+    "venue": "Sensor-and Video-Based Activity and Behavior Computing: Proceedings of 3rd …",
+    "year": 2022,
+    "citedBy": 5,
+    "type": "C"
+  },
+  {
+    "title": "Information processing apparatus, information processing method, and storage medium storing program",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:W7OEmFMy1HYC",
+    "authors": "A Yokokubo",
+    "venue": "US Patent 11,238,974",
+    "year": 2022,
+    "citedBy": 4,
+    "type": "P"
+  },
+  {
+    "title": "Bone Conduction Eating Activity Detection based on YAMNet Transfer Learning and LSTM Networks.",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:NaGl4SEjCO4C",
+    "authors": "W Chen, H Kamachi, A Yokokubo, G Lopez",
+    "venue": "BIOSIGNALS, 74-84",
+    "year": 2022,
+    "citedBy": 4,
+    "type": "C"
+  },
+  {
+    "title": "Proposal for an Individually Adapted Video Viewing System Linked to the User’s Feeling of Fear",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:ns9cj8rnVeAC",
+    "authors": "R Takeshita, A Yokokubo, G Lopez",
+    "venue": "Extended Abstracts of the 2022 Annual Symposium on Computer-Human …",
+    "year": 2022,
+    "citedBy": 1,
+    "type": "C"
+  },
+  {
+    "title": "Heat comfort prediction using pulse variation",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:b0M2c_1WBrUC",
+    "authors": "K Honda, A Yokokubo, G Lopez, T Hossain, Y Kawasaki",
+    "venue": "Multimedia, Distributed, Cooperative, and Mobile (DICOMO) Symposium, Virtual …",
+    "year": 2022,
+    "citedBy": 1,
+    "type": "C"
+  },
+  {
+    "title": "Punch Detection and Classification Using Multiple IMUs",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:f2IySw72cVMC",
+    "authors": "花田， 祥典， 横窪， 安奈， ...",
+    "venue": "マルチメディア, 分散, 協調とモバイルシンポジウム 2022 論文集 2022, 1618-1624",
+    "year": 2022,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "Using a Single IMU",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:1sJd4Hv_s6UC",
+    "authors": "Y Kondo, S Ishii, H Aoyagi, T Hossain, A Yokokubo, G Lopez",
+    "venue": "Sensor-and Video-Based Activity and Behavior Computing: Proceedings of 3rd …",
+    "year": 2022,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "授業中における学生のキモチ通知システムを用いた授業者支援",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:pyW8ca7W8N0C",
+    "authors": "大塚陽菜， 横窪安奈",
+    "venue": "人工知能学会全国大会論文集 第 36 回 (2022), 3B3GS1105-3B3GS1105",
+    "year": 2022,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "AroNap: A Scent-based Nap Promotion System.",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:vV6vV6tmYwMC",
+    "authors": "M Iizuka, A Yokokubo, G Lopez",
+    "venue": "BIOSIGNALS, 22-30",
+    "year": 2022,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "Emotion recognition from heart rate variability data of smartwatch while watching a video",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:M3NEmzRMIkIC",
+    "authors": "R Takeshita, A Shoji, T Hossain, A Yokokubo, G Lopez",
+    "venue": "2021 Thirteenth international conference on mobile computing and ubiquitous …",
+    "year": 2021,
+    "citedBy": 9,
+    "type": "C"
+  },
+  {
+    "title": "Prediction of eating activity using smartwatch",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:iH-uZ7U-co4C",
+    "authors": "H Kamachi, T Hossain, F Tokuyama, A Yokokubo, G Lopez",
+    "venue": "Adjunct Proceedings of the 2021 ACM International Joint Conference on …",
+    "year": 2021,
+    "citedBy": 6,
+    "type": "C"
+  },
+  {
+    "title": "Automatic segmentation method of bone conduction sound for eating activity detailed detection",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:r0BpntZqJG4C",
+    "authors": "H Kamachi, T Kondo, T Hossain, A Yokokubo, G Lopez",
+    "venue": "Adjunct Proceedings of the 2021 ACM International Joint Conference on …",
+    "year": 2021,
+    "citedBy": 6,
+    "type": "C"
+  },
+  {
+    "title": "Detecting forward leaning posture using eSense and developing a posture improvement promoting system",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:k_IJM867U9cC",
+    "authors": "Y Takayama, S Ishii, A Yokokubo, G Lopez",
+    "venue": "Adjunct Proceedings of the 2021 ACM International Joint Conference on …",
+    "year": 2021,
+    "citedBy": 5,
+    "type": "C"
+  },
+  {
+    "title": "Coremoni-WE: Individual core training monitoring and support system using an IMU at the waist and the ear",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:bEWYMUwI8FkC",
+    "authors": "N Motokawa, A Jinno, Y Takayama, S Ishii, A Yokokubo, G Lopez",
+    "venue": "Adjunct Proceedings of the 2021 ACM International Joint Conference on …",
+    "year": 2021,
+    "citedBy": 5,
+    "type": "C"
+  },
+  {
+    "title": "Estimating the degree of mental state using heart rate while studying",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:isC4tDSrTZIC",
+    "authors": "Y Kawasaki, T Hossain, A Yokokubo, G Lopez",
+    "venue": "Adjunct Proceedings of the 2021 ACM International Joint Conference on …",
+    "year": 2021,
+    "citedBy": 3,
+    "type": "C"
+  },
+  {
+    "title": "Trunk training support system using accelerometer",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:D03iK_w7-QYC",
+    "authors": "D Morita, N Motokawa, A Yokokubo, G Lopez",
+    "venue": "Multimedia, Distributed Cooperation and Mobile Symposium, 1326-1331",
+    "year": 2021,
+    "citedBy": 2,
+    "type": "C"
+  },
+  {
+    "title": "CoreMoni: Individual core training monitoring and support system",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:JV2RwH3_ST0C",
+    "authors": "N Motokawa, A Jinno, D Morita, A Yokokubo, G Lopez",
+    "venue": "2021 Thirteenth International Conference on Mobile Computing and Ubiquitous …",
+    "year": 2021,
+    "citedBy": 1,
+    "type": "C"
+  },
+  {
+    "title": "Dustoon: Support System for Improvement of Cleaning using Dust Sensor and Mixed Reality",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:RGFaLdJalmkC",
+    "authors": "Y Kaeriyama, A Yokokubo, G Lopez",
+    "venue": "IEICE Technical Report; IEICE Tech. Rep. 120 (319), 42-44",
+    "year": 2021,
+    "citedBy": 0,
+    "type": "?"
+  },
+  {
+    "title": "VR Presentation System to Improve the Immersive Feeling for Online Presentation",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:j3f4tGmQtD8C",
+    "authors": "Y Kabayama, A Yokokubo, Y Kawahara, L Guillaume",
+    "venue": "IEICE Technical Report; IEICE Tech. Rep. 120 (319), 17-19",
+    "year": 2021,
+    "citedBy": 0,
+    "type": "?"
+  },
+  {
+    "title": "Core Exercises Support System using Accelerometer",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:O3NaXMp0MMsC",
+    "authors": "D MORITA, N MOTOKAWA, A YOKOKUBO, G LOPEZ",
+    "venue": "情報処理学会シンポジウムシリーズ (CD-ROM) 2021 (1), 7-4",
+    "year": 2021,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "Exersense: physical exercise recognition and counting algorithm from wearables robust to positioning",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:HDshCWvjkbEC",
+    "authors": "S Ishii, A Yokokubo, M Luimula, G Lopez",
+    "venue": "Sensors 21 (1), 91",
+    "year": 2020,
+    "citedBy": 40,
+    "type": "J"
+  },
+  {
+    "title": "Exersense: Real-time physical exercise segmentation, classification, and counting algorithm using an imu sensor",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:ZeXyd9-uunAC",
+    "authors": "S Ishii, K Nkurikiyeyezu, M Luimula, A Yokokubo, G Lopez",
+    "venue": "Activity and Behavior Computing, 239-255",
+    "year": 2020,
+    "citedBy": 28,
+    "type": "C"
+  },
+  {
+    "title": "Model for thermal comfort and energy saving based on individual sensation estimation",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:L8Ckcad2t8MC",
+    "authors": "G Lopez, T Aoki, K Nkurikiyeyezu, A Yokokubo",
+    "venue": "arXiv preprint arXiv:2003.04311",
+    "year": 2020,
+    "citedBy": 9,
+    "type": "?"
+  },
+  {
+    "title": "Trackenzan: Digital flower arrangement using trackpad and stylus pen",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:hC7cP41nSMkC",
+    "authors": "A Yokokubo, Y Kato, I Siio",
+    "venue": "International Conference on Human-Computer Interaction, 332-343",
+    "year": 2020,
+    "citedBy": 6,
+    "type": "C"
+  },
+  {
+    "title": "VR dodge-ball: application of real-time gesture detection from wearables to exergaming",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:hFOr9nPyWt4C",
+    "authors": "S Ishii, M Luimula, A Yokokubo, G Lopez",
+    "venue": "2020 11th IEEE International Conference on Cognitive Infocommunications …",
+    "year": 2020,
+    "citedBy": 5,
+    "type": "C"
+  },
+  {
+    "title": "Classification of eating behaviors in unconstrained environments",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:_Qo2XoVZTnwC",
+    "authors": "K Nkurikiyeyezu, H Kamachi, T Kondo, A Jain, A Yokokubo, G Lopez",
+    "venue": "International Joint Conference on Biomedical Engineering Systems and …",
+    "year": 2020,
+    "citedBy": 4,
+    "type": "C"
+  },
+  {
+    "title": "Classification method of eating behavior by dietary sound collected in natural meal environment",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:mB3voiENLucC",
+    "authors": "H Kamachi, T Kondo, A Yokokubo, G Lopez",
+    "venue": "Activity and Behavior Computing, 135-152",
+    "year": 2020,
+    "citedBy": 3,
+    "type": "C"
+  },
+  {
+    "title": "Proposing a System to Supporting for Kitchen Knife Skill Improvement using Acceleration Sensor",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:-f6ydRqryjwC",
+    "authors": "T Kato, H Kobayashi, A Yokokubo, G Lopez",
+    "venue": "2020 11th IEEE International Conference on Cognitive Infocommunications …",
+    "year": 2020,
+    "citedBy": 2,
+    "type": "C"
+  },
+  {
+    "title": "Detailed Classification of Meal-related Activities from Eating Sound Collected in Free Living Conditions.",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:maZDTaKrznsC",
+    "authors": "A Jain, T Kondo, H Kamachi, A Yokokubo, G Lopez",
+    "venue": "HEALTHINF, 284-291",
+    "year": 2020,
+    "citedBy": 2,
+    "type": "C"
+  },
+  {
+    "title": "MealJammer: 電磁石を用いた皿駆動型食事阻害システムの提案",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:TFP_iSt0sucC",
+    "authors": "N MOTOKAWA, A KATO, A YOKOKUBO, G ROPEZU",
+    "venue": "情報処理学会研究報告 (Web) 2020 (HCI-188)",
+    "year": 2020,
+    "citedBy": 1,
+    "type": "C"
+  },
+  {
+    "title": "ExerSense: Real-time Exercise Segmentation, Classification and Counting using IMU",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:4JMBOYKVnBMC",
+    "authors": "S Ishii, A Yokokubo, M Luimura, G Lopez",
+    "venue": "マルチメディア, 分散協調とモバイルシンポジウム 2043 論文集 2020, 151-154",
+    "year": 2020,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "The effect of person-specific biometrics in improving generic stress predictive models",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:4DMP91E08xMC",
+    "authors": "K Nkurikiyeyezu, A Yokokubo, G Lopez",
+    "venue": "arXiv preprint arXiv:1910.01770",
+    "year": 2019,
+    "citedBy": 77,
+    "type": "?"
+  },
+  {
+    "title": "Thermal Comfort and Stress Recognition in Office Environment.",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:qjMakFHDy7sC",
+    "authors": "K Nkurikiyeyezu, K Shoji, A Yokokubo, G Lopez",
+    "venue": "HEALTHINF, 256-263",
+    "year": 2019,
+    "citedBy": 37,
+    "type": "C"
+  },
+  {
+    "title": "Importance of Individual Differences in Physiological-Based Stress Recognition Models.",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:zYLM7Y9cAGgC",
+    "authors": "K Nkurikiyeyezu, A Yokokubo, G Lopez",
+    "venue": "Intelligent Environments, 37-43",
+    "year": 2019,
+    "citedBy": 23,
+    "type": "C"
+  },
+  {
+    "title": "On-site personal sport skill improvement support using only a smartwatch",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:UeHWp8X0CEIC",
+    "authors": "G Lopez, S Abe, K Hashimoto, A Yokokubo",
+    "venue": "2019 IEEE International Conference on Pervasive Computing and Communications …",
+    "year": 2019,
+    "citedBy": 23,
+    "type": "C"
+  },
+  {
+    "title": "Robust classification of eating sound collected in natural meal environment",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:YOwf2qJgpHMC",
+    "authors": "T Kondo, H Kamachi, S Ishii, A Yokokubo, G Lopez",
+    "venue": "Adjunct Proceedings of the 2019 ACM International Joint Conference on …",
+    "year": 2019,
+    "citedBy": 12,
+    "type": "C"
+  },
+  {
+    "title": "The effect of person-specific biometrics in improving generic stress predictive models. arXiv 2019",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:RYcK_YlVTxYC",
+    "authors": "K Nkurikiyeyezu, A Yokokubo, G Lopez",
+    "venue": "arXiv preprint arXiv:1910.01770",
+    "year": 2019,
+    "citedBy": 12,
+    "type": "?"
+  },
+  {
+    "title": "Affect-aware thermal comfort provision in intelligent buildings",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:2osOgNQ5qMEC",
+    "authors": "K Nkurikiyeyezu, A Yokokubo, G Lopez",
+    "venue": "2019 8th International Conference on Affective Computing and Intelligent …",
+    "year": 2019,
+    "citedBy": 11,
+    "type": "C"
+  },
+  {
+    "title": "Optimized classification model for efficient recognition of meal-related activities in daily life meal environment",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:Wp0gIr-vW9MC",
+    "authors": "T Kondo, H Shiro, A Yokokubo, G Lopez",
+    "venue": "2019 Joint 8th International Conference on Informatics, Electronics & Vision …",
+    "year": 2019,
+    "citedBy": 10,
+    "type": "C"
+  },
+  {
+    "title": "Egenjiko: Scent matching game using a computer-controlled censer",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:QIV2ME_5wuYC",
+    "authors": "A Yokokubo, M Chaichirawiwat, G Lopez, Y Matoba, M Ohno, I Siio",
+    "venue": "Extended Abstracts of the Annual Symposium on Computer-Human Interaction in …",
+    "year": 2019,
+    "citedBy": 6,
+    "type": "C"
+  },
+  {
+    "title": "Effect of Feedback Medium for Real-time Mastication Awareness Increase using Wearable Sensors.",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:mVmsd5A6BfQC",
+    "authors": "G Lopez, H Mitsui, J Ohara, A Yokokubo",
+    "venue": "HEALTHINF, 442-449",
+    "year": 2019,
+    "citedBy": 4,
+    "type": "C"
+  },
+  {
+    "title": "Effect of feedback medium for real-time awareness increase using wearable sensors",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:a0OBvERweLwC",
+    "authors": "G Lopez, H Mitsui, J Ohara, A Yokokubo",
+    "venue": "HEALTHINF 2019, The 12th International Conference on Health Informatics",
+    "year": 2019,
+    "citedBy": 3,
+    "type": "C"
+  },
+  {
+    "title": "Development of tangible controller for ikebana training system",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:7PzlFSSx8tAC",
+    "authors": "A Yokokubo, Y Kato, I Siio",
+    "venue": "2019 IEEE CPMT Symposium Japan (ICSJ), 111-112",
+    "year": 2019,
+    "citedBy": 2,
+    "type": "C"
+  },
+  {
+    "title": "TracKenzan: トラックパッドとタッチペンを用いたいけばな練習システムの提案と評価",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:dhFuZR0502QC",
+    "authors": "横窪， 安奈， 加藤",
+    "venue": "情報処理学会論文誌 60 (11), 2006-2018",
+    "year": 2019,
+    "citedBy": 1,
+    "type": "J"
+  },
+  {
+    "title": "Trackenzan: Development and evaluation of digital flower arrangement system using trackpad and stylus pen",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:RHpTSmoSYBkC",
+    "authors": "A YOKOKUBO, Y KATO, R YAKUSHIJIN, I SHIIO",
+    "venue": "情報処理学会論文誌ジャーナル (Web) 60 (11), 2006-2018",
+    "year": 2019,
+    "citedBy": 1,
+    "type": "J"
+  },
+  {
+    "title": "情報処理装置、情報処理方法、プログラムおよび記憶媒体情報処理装置、情報処理方法及びプログラム（Information processing apparatus, information processing method, and program）",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:Zph67rFs4hoC",
+    "authors": "曾川安奈",
+    "venue": "JP Patent 特開2019-140,526",
+    "year": 2019,
+    "citedBy": 0,
+    "type": "P"
+  },
+  {
+    "title": "Optimization Method of Thermal Comfort and Energy Saving Based on Individual Sensation Estimation",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:_xSYboBqXhAC",
+    "authors": "A Takuya, N Kizito, Y Anna, L Guillaume",
+    "venue": "マルチメディア, 分散協調とモバイルシンポジウム 2019 論文集 2019, 1419-1422",
+    "year": 2019,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "自然な食事環境に対応した骨伝導音を用いた咀嚼・嚥下・発話分類手法の提案",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:GnPB-g6toBAC",
+    "authors": "近藤， 匠海， 蒲地， 遥,横窪， 安奈， ロペズ,ギヨーム",
+    "venue": "マルチメディア, 分散協調とモバイルシンポジウム 2019 論文集 2019, 1498-1504",
+    "year": 2019,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "運転負荷の強弱による発話状況の明確化",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:NMxIlDl6LWMC",
+    "authors": "城秀一， 神沼",
+    "venue": "マルチメディア, 分散協調とモバイルシンポジウム 2019 論文集 2019, 1254-1258",
+    "year": 2019,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "教示アニメーションを用いたプレゼンテーション実演支援システム",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:hMod-77fHWUC",
+    "authors": "樺山， 横窪， 安奈， ロペズ,ギヨーム",
+    "venue": "マルチメディア, 分散協調とモバイルシンポジウム 2019 論文集 2019, 1697-1699",
+    "year": 2019,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "情報処理装置、情報処理方法及びプログラム（Information processing apparatus, information processing method, and program）",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:ULOm3_A8WrAC",
+    "authors": "曾川安奈",
+    "venue": "JP Patent 特開2019-087,288",
+    "year": 2019,
+    "citedBy": 0,
+    "type": "P"
+  },
+  {
+    "title": "情報処理装置、制御方法およびプログラム情報処理装置、情報処理方法及びプログラム（Information processing apparatus, information processing method, and program）",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:8k81kl-MbHgC",
+    "authors": "横窪安奈",
+    "venue": "JP Patent 特許6,498,018",
+    "year": 2019,
+    "citedBy": 0,
+    "type": "P"
+  },
+  {
+    "title": "心拍センサを用いた過食防止システムの フィードバック手法の検討",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:M3ejUd6NZC8C",
+    "authors": "LMCRL Guillaume",
+    "venue": "インタラクション2019, 706-709",
+    "year": 2019,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "Development of a wearable thermo-conditioning device controlled by human factors based thermal comfort estimation",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:IjCSPb-OGe4C",
+    "authors": "G Lopez, K Takahashi, K Nkurikiyeyezu, A Yokokubo",
+    "venue": "2018 12th France-Japan and 10th Europe-Asia Congress on Mechatronics, 255-259",
+    "year": 2018,
+    "citedBy": 4,
+    "type": "C"
+  },
+  {
+    "title": "Method to improve real-time chewing and speaking detection accuracy from bone-conduction sound",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:abG-DnoFyZgC",
+    "authors": "H Mitsui, J Ohara, A Yokokubo, G Lopez",
+    "venue": "Multimed. Distrib. Coop. Mobile Symp, 562-566",
+    "year": 2018,
+    "citedBy": 3,
+    "type": "C"
+  },
+  {
+    "title": "Augmented Reality Flower Arrangement System using Tangible Flower’s Stick and Smart Kenzan",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:yD5IFk8b50cC",
+    "authors": "A Yokokubo, I Siio",
+    "venue": "IPSJ Interaction 2018, 3A02, 865-868",
+    "year": 2018,
+    "citedBy": 3,
+    "type": "C"
+  },
+  {
+    "title": "情報処理装置、制御方法およびプログラム（Information processing apparatus, information processing method, and program）",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:MXK_kJrjxJIC",
+    "authors": "横窪安奈",
+    "venue": "JP Patent 特許6,422,347",
+    "year": 2018,
+    "citedBy": 0,
+    "type": "P"
+  },
+  {
+    "title": "TracKenzan：トラックパッドとタッチペンを用いたいけばな練習システム",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:_kc_bZDykSQC",
+    "authors": "椎尾一郎、横窪安奈、加藤祐二、",
+    "venue": "WISS2018, 13-18",
+    "year": 2018,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "スマートウォッチによる現場での個別スポーツスキル向上支援",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:hqOjcs7Dif8C",
+    "authors": "阿部， 翔平， 橋本， 兼吾， 城秀一， 横窪， 安奈， ロペズ,ギヨーム",
+    "venue": "マルチメディア, 分散協調とモバイルシンポジウム 2018 論文集 2018, 160-165",
+    "year": 2018,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "ヒューマンファクターに基づいたウェアラブル冷暖房デバイスの開発",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:UebtZRa9Y70C",
+    "authors": "高橋， 一聡， 近藤， 匠海， ンクリキイェイェズ,キジト,横窪,安奈,ロペズ,ギヨーム",
+    "venue": "マルチメディア, 分散協調とモバイルシンポジウム 2018 論文集 2018, 395-399",
+    "year": 2018,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "読み方の質を改善させるための HMD を用いたアニメーションの提案: 読み聞かせを題材として",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:Se3iqnhoufwC",
+    "authors": "子安， 樺山， 横窪， 安奈， ロペズ,ギョーム",
+    "venue": "マルチメディア, 分散協調とモバイルシンポジウム 2018 論文集 2018, 310-313",
+    "year": 2018,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "聴覚フィードバックを用いたジャグリングスキル向上支援システム",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:roLk4NBRz8UC",
+    "authors": "萬絵， 加藤， 岳大， 横窪， 安奈， ロペズ,ギヨーム",
+    "venue": "マルチメディア, 分散協調とモバイルシンポジウム 2018 論文集 2018, 798-803",
+    "year": 2018,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "骨伝導音を用いたリアルタイム咀嚼・発話判定精度向上手法の提案",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:LkGwnXOMwfcC",
+    "authors": "三井， 小原",
+    "venue": "マルチメディア, 分散協調とモバイルシンポジウム 2018 論文集 2018, 562-566",
+    "year": 2018,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "骨伝導マイクを用いた咀嚼回数向上支援システムのフィードバック方法の検討",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:qxL8FJ1GzNcC",
+    "authors": "L Guillaume",
+    "venue": "",
+    "year": 2018,
+    "citedBy": 0,
+    "type": "?"
+  },
+  {
+    "title": "タンジブルな花軸・剣山デバイスを用いたAR生け花支援システムの提案と試作",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:4TOpqqG69KYC",
+    "authors": "横窪安奈、椎尾一郎、",
+    "venue": "インタラクション2018, 865-868",
+    "year": 2018,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "運動促進のための開放型空間における協調型エクサゲームの設計指針",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:_FxGoFyzp5QC",
+    "authors": "佐藤， 彩夏， 横窪， 安奈， 椎尾， 一郎， 暦本",
+    "venue": "情報処理学会論文誌 57 (12), 2554-2564",
+    "year": 2016,
+    "citedBy": 1,
+    "type": "J"
+  },
+  {
+    "title": "情報処理装置、制御方法およびプログラム（Information processing apparatus, information processing method, and storage medium storing program）",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:0EnyYjriUFMC",
+    "authors": "横窪安奈",
+    "venue": "JP Patent 特開2018-022,412",
+    "year": 2016,
+    "citedBy": 0,
+    "type": "P"
+  },
+  {
+    "title": "Information processing apparatus, information processing method, and program",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:Tyk-4Ss8FVUC",
+    "authors": "A Yokokubo",
+    "venue": "US Patent App. 14/677,749",
+    "year": 2015,
+    "citedBy": 3,
+    "type": "P"
+  },
+  {
+    "title": "情報処理装置、制御方法およびプログラム（Information processing apparatus, information processing method, and storage medium storing program）",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:3fE2CSJIrl8C",
+    "authors": "横窪安奈",
+    "venue": "JP Patent 特開2015-215,740",
+    "year": 2015,
+    "citedBy": 0,
+    "type": "P"
+  },
+  {
+    "title": "情報処理装置、制御方法およびプログラム（Information processing apparatus, information processing method, and storage medium storing program）",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:kNdYIx-mwKoC",
+    "authors": "横窪安奈",
+    "venue": "JP Patent 特開2015-201,092",
+    "year": 2015,
+    "citedBy": 0,
+    "type": "P"
+  },
+  {
+    "title": "患者用説明資料作成装置、患者用説明資料作成方法及びプログラム",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:KlAtU1dfN6UC",
+    "authors": "横窪安奈",
+    "venue": "",
+    "year": 2015,
+    "citedBy": 0,
+    "type": "?"
+  },
+  {
+    "title": "情報処理装置",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:5nxA0vEk-isC",
+    "authors": "横窪安奈",
+    "venue": "JP Patent 特開2017-054,267",
+    "year": 2015,
+    "citedBy": 0,
+    "type": "P"
+  },
+  {
+    "title": "CADo: 身近な花材を利用した生け花支援システム",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:eQOLeE2rZwMC",
+    "authors": "横窪安奈， 椎尾一郎",
+    "venue": "情報処理学会論文誌 55 (4), 1246-1255",
+    "year": 2014,
+    "citedBy": 4,
+    "type": "J"
+  },
+  {
+    "title": "Collaborative digital sports systems that encourage exercise",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:u-x6o8ySG0sC",
+    "authors": "A Sato, A Yokokubo, I Siio, J Rekimoto",
+    "venue": "International Conference on Human-Computer Interaction, 332-340",
+    "year": 2014,
+    "citedBy": 3,
+    "type": "C"
+  },
+  {
+    "title": "Collaborative Digital Sports Systems That Encourage Exercise",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:3s1wT3WcHBgC",
+    "authors": "J Rekimoto, A Sato, I Siio, A Yokokubo",
+    "venue": "(No Title)",
+    "year": 2014,
+    "citedBy": 0,
+    "type": "?"
+  },
+  {
+    "title": "CADo: A supporting system for flower arrangement",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:d1gkVwhDpl0C",
+    "authors": "A Yokokubo, K Sääskilahti, R Kangaskorte, M Luimula, I Siio",
+    "venue": "Proceedings of the International Working Conference on Advanced Visual …",
+    "year": 2012,
+    "citedBy": 6,
+    "type": "C"
+  },
+  {
+    "title": "CADo",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:HoB7MX3m0LUC",
+    "authors": "R Kangaskorte, K Sääskilahti, A Yokokubo, I Siio, M Luimula",
+    "venue": "Proceedings of the International Working Conference on Advanced Visual …",
+    "year": 2012,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "身近な花材を利用した生け花支援システムの開発",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:Y0pCki6q_DkC",
+    "authors": "横窪安奈， 椎尾一郎",
+    "venue": "全国大会講演論文集 2011 (1), 141-143",
+    "year": 2011,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "何人何脚!?-協調によるコミュニケーション支援システム",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:YsMSGLbcyi4C",
+    "authors": "佐藤彩夏， 横窪安奈， 椎尾一郎",
+    "venue": "",
+    "year": 2011,
+    "citedBy": 0,
+    "type": "?"
+  },
+  {
+    "title": "The Group Jump Rope Orchestra-An Interactive System to Present a Sense of Togetherness",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:u5HHmVD_uO8C",
+    "authors": "A Sato, A Yokokubo, I Siio",
+    "venue": "Proc. ACE",
+    "year": 2010,
+    "citedBy": 2,
+    "type": "C"
+  },
+  {
+    "title": "大縄オーケストラ: 身体動作と音楽を融合したインタラクティブシステムの提案",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:ufrVoPGSRksC",
+    "authors": "横窪安奈， 佐藤彩夏， 椎尾一郎",
+    "venue": "(No Title)",
+    "year": 2010,
+    "citedBy": 0,
+    "type": "?"
+  },
+  {
+    "title": "幻庵: 環境情報の周期性を可視化した新しいお茶室の提案",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:WF5omc3nYNoC",
+    "authors": "横窪安奈， 木村健一",
+    "venue": "日本デザイン学会研究発表大会概要集 日本デザイン学会 第 57 回研究発表大会, P50-P50",
+    "year": 2010,
+    "citedBy": 0,
+    "type": "C"
+  },
+  {
+    "title": "聴覚フィードバックを用いたジャグリングスキル向上支援システム",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:dfsIfKJdRG4C",
+    "authors": "KYT Kato, A Yokokubo, G Lopez",
+    "venue": "",
+    "year": 0,
+    "citedBy": 0,
+    "type": "?"
+  },
+  {
+    "title": "Ball Juggling Training System with Auditory Feedback",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:J_g5lzvAfSwC",
+    "authors": "K Yorozu, A Yokokubo, G Lopez",
+    "venue": "IEICE Technical Report; IEICE Tech. Rep.",
+    "year": 0,
+    "citedBy": 0,
+    "type": "?"
+  },
+  {
+    "title": "Proposal of Real-time Reading Support System",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:R3hNpaxXUhUC",
+    "authors": "K Koyasu, A Yokokubo, G Lopez",
+    "venue": "IEICE Technical Report; IEICE Tech. Rep.",
+    "year": 0,
+    "citedBy": 0,
+    "type": "?"
+  },
+  {
+    "title": "生体信号を用いたデスクワークにおけるメンタル疲労度推定",
+    "scholarUrl": "https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=VhHsUvsAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VhHsUvsAAAAJ:TQgYirikUcIC",
+    "authors": "K SHOJI, S ISHII, A YOKOKUBO, G LOPEZ",
+    "venue": "",
+    "year": 0,
+    "citedBy": 0,
+    "type": "?"
+  }
+]
